@@ -1,7 +1,8 @@
 # Todo
 
-Technologies:
-Spring Boot
-MySQL
-Postman
+Technologies:  
+Spring Boot  
+MySQL  
+Postman  
+
 
